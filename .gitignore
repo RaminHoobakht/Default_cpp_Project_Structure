@@ -1,5 +1,9 @@
+# afater clone the default cpp project structer
+# uncomment below line.
+#/build/
+
 # Build folders
-/build/
+
 /cmake-build-debug/
 /.cache/
 /.idea/
